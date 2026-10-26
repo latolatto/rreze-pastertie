@@ -13,6 +13,7 @@ window.RREZE_CONTENT = {
     { src: 'assets/rreze-pastrim-perfundimtar.mp4', title: 'Vëmendje në çdo detaj', subtitle: 'Nga afër' },
     { src: 'assets/rreze-ne-pune.mp4', title: 'Kujdes, hap pas hapi', subtitle: 'Në veprim' },
     { src: 'assets/rreze-kuzhina-me-avull.mp4', title: 'Deri te prekja e fundit', subtitle: 'Me përkushtim' },
+    { src: 'assets/rreze-dysheku-me-avull.mp4', title: 'Pastrim dysheku me avull', subtitle: 'Pastërti në thellësi' },
   ],
   reviews: [
     {
